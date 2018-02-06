@@ -14,7 +14,7 @@ function johnLennonFacts(facts){
    array.push(`${facts[i]}!!! `);
     i++;
     
-    if(i === 3){
+    if(i === 4){
       return array;
     }
   }
