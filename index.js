@@ -10,8 +10,8 @@ function johnLennonFacts(facts){
   let i = 0;
   while (i < 4){
     
-   return (`${facts[i]} !!!`) 
+   facts = (`${facts[i]} !!!`) ;
     i++;
   }
-   
+   return facts;
 }
