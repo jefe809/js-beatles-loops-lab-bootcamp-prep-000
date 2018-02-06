@@ -12,7 +12,7 @@ function johnLennonFacts(facts){
     
     facts.push(facts ..."!!!");
     
-  }i++;
+  }
    
   return facts;
 }
