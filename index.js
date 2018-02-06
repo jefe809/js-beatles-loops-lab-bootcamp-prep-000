@@ -10,9 +10,9 @@ function johnLennonFacts(facts){
   let i = 0;
   while (i < 4){
     
-    facts.push(facts ..."!!!");
+    facts.push(..."!!!");
     
   }
-   
+   i++;
   return facts;
 }
